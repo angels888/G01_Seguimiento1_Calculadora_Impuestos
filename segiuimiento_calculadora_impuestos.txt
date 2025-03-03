@@ -1,0 +1,44 @@
+inicio.
+    ingresar tu nombre completo
+    ingresar tu edad 
+    ingresar la cantidad de dias
+    ingresar tu estracto
+    ingresar tu ocupacion
+estracto_0
+    pagar $0
+    imprimir(f'pagar $0 impuestos')
+estracto_1  
+    calcular $500 * dia vivido en medellin
+     imprimir(f'pagar $500 * dia vivido en medellin')
+estracto_2 
+    calcular $500 * dia vivido en medellin
+    imprimir(f'pagar $500 * dia vivido en medellin')
+estracto_3
+    calcular $50.000 * dia vivido en medellin mas 1.000.000 de base
+    imprimir(f'pagar $50.000 * dia vivido en medellin mas 1.000.000 de base')
+estracto_4 
+    calcular $50.000 * dia vivido en medellin mas 1.000.000 de base
+    imprimir(f'pagar $50.000 * dia vivido en medellin mas 1.000.000 de base')
+estracto_5
+    calcular $250.000 * dia vivido en medellin
+    imprimir(f'pagar $250.000 * dia vivido en medellin')
+estracto_6
+    calcular $250.000 * dia vivido en medellin
+    imprimir(f'pagar $250.000 * dia vivido en medellin')
+empleado del gobierno
+    50% de descuento sobre el valor de impuestos
+    imprimir(f'descontar 50% sobre el valor de impuestos ')
+desempleado
+    10% de descuento sobre el valor de impuestos
+    imprimir(f'descontar 10% sobre el valor de impuestos')
+empleado del sector privado
+    5% de descuento sobre el valor de impuestos
+    imprimir(f'descontar 5% sobre el valor de impuestos')
+    imprimir(f'los impuestos totales para {nombre} con {edad} años')
+    imprimir(f'es el valor de [total]sin descuento')
+    imprimir(f' el % de descuento es {descuento}')
+    imprimir(f'descuento del impuesto es {final}')
+fin
+
+
+
